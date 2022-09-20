@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\Mes documents\S4\C++\cpptp1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Mes documents\S4\C++\cpptp1\a.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Actif.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Z:\Mes documents\S4\C++\cpptp1\a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="actif.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\Mes documents\S4\C++\cpptp1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{918065CE-44DB-349F-8BBD-442382CCE5EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{001DF923-2986-3A1A-A83E-6A2D23C26421}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
